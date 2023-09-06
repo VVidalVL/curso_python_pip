@@ -1,0 +1,6 @@
+$ which "entorno" ->> visualiza la ruta que estamos trabajando en nuestro proyecto
+$ python3 -m venv "name" ->> crea un entorno virtual dentro de la carpeta del proyecto
+$ source name/bin/activate ->> activa el entorno virtual (podemos hacer las instalaciones de las dependencias)
+$ deactivate ->> alismos del entorno virtual
+$ pip3 freeze ->> visualiza los paquetes(dependencias) que estan corriendo en el entrno virtual
+
