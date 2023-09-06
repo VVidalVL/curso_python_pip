@@ -10,10 +10,10 @@ python3 main.py
 
 para poder ejecutar el programa
 
-'''sh
+```sh
 git clone
 cd app
 source evn/bin/activate
 pip3 install  -r requirements.txt
 python3 main.py
-'''
+```
