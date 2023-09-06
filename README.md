@@ -8,6 +8,8 @@ python3 main.py
 ```
 # Reto_final
 
+para poder ejecutar el programa
+
 '''sh
 git clone
 cd app
